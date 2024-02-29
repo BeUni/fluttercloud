@@ -1,0 +1,4 @@
+name: FlutterCloud
+
+packages:
+  - packages/*
